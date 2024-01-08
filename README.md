@@ -1,0 +1,1 @@
+sotka test task rules: html css, reference: https://www.figma.com/file/Uu3VKTu9siiTp1l91y5I0T/Untitled?type=design&node-%20id=0%3A1&mode=design&t=43R91COEn9vyLwnL-1
